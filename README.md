@@ -6,7 +6,7 @@
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/nodejs-quiz.git
+git clone https://github.com/9nimbu9/AltStack.git
 ```
 
 ### 2. Install Dependencies
