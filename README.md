@@ -20,7 +20,7 @@ npm install
 
 ### 3. Run the Application
 
-Start the Node.js server by running the following command:
+Start the Index.js server by running the following command:
 
 ```bash
 node index.js
