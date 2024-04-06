@@ -14,7 +14,7 @@ git clone https://github.com/9nimbu9/AltStack.git
 Navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd nodejs-quiz
+cd AltStack
 npm install
 ```
 
